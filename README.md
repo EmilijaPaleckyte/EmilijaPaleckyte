@@ -1,5 +1,6 @@
-### Hi there 👋, my name is Emilija
-#### I am a full stack JavaScript developer
+#  Hi there 👋, my name is Emilija 🥰 #
+
+## I am a full stack JavaScript developer ##
  I'm a highly passionate learner and adventurer. My journey includes not only coding, but also mastering social media management, with ownership of engaging pages. I express myself not just as a copywriter but also as a poet. I love crafting storytelling UGC posts. Clearly, my heart beats for creation, and I'm always eager to explore new interests and hobbies. 
 
 - 🔭 I’m currently working on exploring new tools & improving my craft 
